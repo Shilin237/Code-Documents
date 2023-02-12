@@ -1,0 +1,6 @@
+Setting up the GIt
+--$ git config --global user.email shilinpm@gmail.com (for seting the user globally)
+--$ git config --local user.email shilinpm@gmail.com (for seting the user local/project based)
+--$ git config --user user.email shilinpm@gmail.com (for seting the user at login level).
+
+--> To initailizze a git in a empty location -->( git init)
