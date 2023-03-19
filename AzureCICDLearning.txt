@@ -1,0 +1,11 @@
+Steps to Push the code Azure Devops.
+
+1)Initialise a repo with :git init
+2)create a git ignore through visual studio code extension
+3) stage all the required files with : git add .
+4) check the status of the added file : git status
+5) commit the files to local branch : git commit -m "my first commit"
+7) Push the code to the origin repo:git remote add origin https://shilinpm@dev.azure.com/shilinpm/helloWorldApp/_git/helloWorldApp
+https://shilinpm@dev.azure.com/shilinpm/helloWorldApp/_git/Flex%20Box%20Learning
+
+8)Final push to repo:  git push -u origin --all
